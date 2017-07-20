@@ -1,0 +1,136 @@
+Enter word or sentence (EXIT to break): 
+Word: linguistics  Position in vocabulary: 3634
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                        synchronic		0.615722
+                                      anthropology		0.540944
+                                      lexicography		0.540451
+                                          typology		0.529810
+                                        musicology		0.523208
+                                         sociology		0.522871
+                                         ethnology		0.521673
+                                     functionalism		0.518257
+                                         semiotics		0.512377
+                                        linguistic		0.508477
+                                        lexicology		0.505957
+                                           lexicon		0.500819
+                                        diachronic		0.497303
+                                         syntactic		0.496937
+                                        morphology		0.484225
+                                         phonology		0.484055
+                                      neurobiology		0.482497
+                                             study		0.480245
+                                   anthropological		0.478006
+                                        psychology		0.475737
+                                          saussure		0.469520
+                                    psychoanalysis		0.468377
+                                           grammar		0.463146
+                                          subfield		0.462627
+                                      neuroscience		0.462345
+                                 psycholinguistics		0.461976
+                                             sapir		0.461925
+                                         linguists		0.461518
+                                            uralic		0.460486
+                                       behaviorism		0.458072
+                                         semantics		0.457453
+                                         phonetics		0.457025
+                                          afrasian		0.456027
+                                     computational		0.448572
+                                 interdisciplinary		0.446559
+                                       disciplines		0.443251
+                                           lexical		0.442120
+                                     structuralism		0.437106
+                                             whorf		0.436451
+                                    historiography		0.436254
+Enter word or sentence (EXIT to break): 
+Word: world  Position in vocabulary: 71
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                            europe		0.468703
+                                                ww		0.438133
+                                           country		0.381353
+                                               war		0.366084
+                                           germany		0.356845
+                                              wwii		0.354463
+                                            nation		0.353003
+                                             fairs		0.350242
+                                               era		0.337808
+                                             japan		0.334585
+                                           richest		0.332277
+                                           history		0.330040
+                                    industrialised		0.329472
+                                             globe		0.326570
+                                          americas		0.325786
+                                          exporter		0.325051
+                                          ramesses		0.324558
+                                             cebit		0.322571
+                                           america		0.320402
+                                         worldwide		0.319449
+                                            africa		0.316835
+                                               wwi		0.311965
+                                             india		0.308762
+                                    industrialized		0.305832
+                                            brazil		0.304785
+                                       christendom		0.303321
+                                         exporting		0.302812
+                                          revolves		0.300221
+                                         indochina		0.298825
+                                           finland		0.297665
+                                      civilization		0.297649
+                                               gnp		0.296644
+                                        napoleonic		0.295198
+                                         countries		0.292952
+                                          westeros		0.291479
+                                            worlds		0.291299
+                                            ramses		0.285569
+                                            boasts		0.284986
+                                     international		0.284609
+                                             punic		0.282826
+Enter word or sentence (EXIT to break): 
+Word: hi  Position in vocabulary: 6922
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                            sabian		0.494248
+                                            cymbal		0.478614
+                                           cymbals		0.472465
+                                     slandsklukkan		0.462270
+                                               suh		0.435867
+                                        hydroiodic		0.430985
+                                        headphones		0.429864
+                                               stm		0.427243
+                                             pedal		0.425494
+                                             hihat		0.425030
+                                           selamat		0.421949
+                                             onaji		0.417031
+                                                fi		0.413886
+                                                kk		0.411745
+                                           pentode		0.410469
+                                               hat		0.405649
+                                                eh		0.400150
+                                               sci		0.399950
+                                            triode		0.392131
+                                                jp		0.389479
+                                                ee		0.388960
+                                               dah		0.384742
+                                                ti		0.383080
+                                               lux		0.382970
+                                               tek		0.382890
+                                           fenders		0.379011
+                                                gi		0.379005
+                                                lj		0.377820
+                                               bib		0.375669
+                                                wi		0.374123
+                                                lg		0.373303
+                                              sock		0.373088
+                                                gg		0.371842
+                                         headphone		0.369971
+                                            bhfuil		0.369774
+                                                ew		0.369036
+                                          bathroom		0.368371
+                                             tidak		0.367736
+                                                ou		0.367321
+                                               hbr		0.366667
+Enter word or sentence (EXIT to break): 
