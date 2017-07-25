@@ -10,8 +10,7 @@ input_paths.each do |path|
       line=m[1].gsub(/[\+ ]+/,' ').chomp+" "
       output_file.write(line)
     elsif line.match('<\/p>|<\/head>')
-      line="\n"
-       output_file.write("\n")
+      output_file.write("\n")
     end
   end
 end
